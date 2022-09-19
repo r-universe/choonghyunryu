@@ -8,3 +8,8 @@
 	url = https://github.com/choonghyunryu/alookr
 	shallow = true
 	registered = true
+[submodule "dlookr"]
+	path = dlookr
+	url = https://github.com/choonghyunryu/dlookr
+	shallow = true
+	registered = true

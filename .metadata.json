@@ -2,5 +2,9 @@
   {
     "package": "alookr",
     "oncran": true
+  },
+  {
+    "package": "dlookr",
+    "oncran": true
   }
 ]
