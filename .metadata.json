@@ -1,10 +1,10 @@
 [
   {
-    "package": "alookr",
+    "package": "dlookr",
     "oncran": true
   },
   {
-    "package": "dlookr",
+    "package": "alookr",
     "oncran": true
   }
 ]
