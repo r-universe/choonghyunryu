@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dlookr"]
-	path = dlookr
-	url = https://github.com/choonghyunryu/dlookr
-	shallow = true
-	registered = true
 [submodule "alookr"]
 	path = alookr
 	url = https://github.com/choonghyunryu/alookr
+	shallow = true
+	registered = true
+[submodule "dlookr"]
+	path = dlookr
+	url = https://github.com/choonghyunryu/dlookr
 	shallow = true
 	registered = true
